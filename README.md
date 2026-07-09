@@ -29,10 +29,10 @@ Demo credentials for all environments: **[miracuves.com/wix-clone → Demo secti
 Most website builders stop at "templates." This platform ships with the features that actually run a no-code SaaS *business*:
 
 - **Drag-Drop Visual Editor** — pixel-perfect editor with mobile/tablet/desktop breakpoints — what made Wix & Squarespace mainstream
-- **Built-In Hosting + SSL** — 
-- **AI Site Generator** — one-click publishing with custom domain, free SSL, and global CDN — what every no-code builder must have
-- **App Marketplace** — agencies can resell under their own brand with markup — millions of small agencies are the channel
-- **White-Label for Agencies** — e-commerce, booking, blog, forms, payments, CRM apps — what makes builders extensible
+- **Built-In Hosting + SSL** — one-click publishing with custom domain, free SSL, and global CDN — what every no-code builder must have
+- **AI Site Generator** — prompt → full site in 30s, then user customizes — Wix's latest growth lever
+- **App Marketplace** — e-commerce, booking, blog, forms, payments, CRM apps — what makes builders extensible
+- **White-Label for Agencies** — agencies can resell under their own brand with markup — millions of small agencies are the channel
 
 ## 📦 Core Features
 
